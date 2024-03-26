@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SistemaVentas.Modelos
+namespace SistemasVentas.Modelos
 {
     public class Persona
     {
@@ -15,7 +15,5 @@ namespace SistemaVentas.Modelos
         public string Ci { get; set; }
         public string Correo { get; set; }
         public string Estado { get; set; }
-
-
     }
 }
